@@ -195,6 +195,8 @@ print("Here are the informations of Mazda RX4 Wag, Ford Pantera L, and Honda Civ
 D
 ```
 
+<br>
+
 ## V. Author
 Name: Cagurangan, Jos Kendirck L.
 <br>
